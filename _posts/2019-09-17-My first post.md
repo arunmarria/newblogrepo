@@ -8,3 +8,4 @@ This my first blog post for the course assignment. There are quite a few things 
 - Cloning a forked repo
 - Making changes  to the repo 
 - Sending pull requests
+- Merging pull requests
